@@ -1,1 +1,17 @@
-[]
+{
+    "inCart": [
+        { "key": "1", "price": 12, "quantity": 1, "text": "Товар 1" },
+        { "key": "2", "price": 22, "quantity": 1, "text": "Товар 2" },
+        { "key": "3", "price": 32, "quantity": 1, "text": "Товар 3" },
+        { "key": "4", "price": 42, "quantity": 1, "text": "Товар 4" },
+        { "key": "5", "price": 10, "quantity": 1, "text": "Товар 5" },
+        { "key": "6", "price": 10, "quantity": 1, "text": "Товар 6" },
+        { "key": "7", "price": 10, "quantity": 1, "text": "Товар 7" },
+        { "key": "8", "price": 10, "quantity": 1, "text": "Товар 8" }
+    ],
+    "deffered": [
+        { "key": "9", "price": 101, "quantity": 1, "text": "Товар A" },
+        { "key": "10", "price": 102, "quantity": 1, "text": "Товар B" }
+    ],
+    "orders": []
+}
